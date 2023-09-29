@@ -1,0 +1,3 @@
+Find a way to not let the console accept inputs without having both input windows filled.
+Find a way to clear the console when pressing the "Notīrīt" button, preferably without bugs.
+Brainstorm how to fix the "Pārvērst ievārijumā" button. It currently is broken.
